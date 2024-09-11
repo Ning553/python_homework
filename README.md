@@ -1,2 +1,2 @@
 # python_homework
-## 这里是一些我Python作业的记录
+## 这里是我Python作业的记录
