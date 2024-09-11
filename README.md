@@ -1,2 +1,2 @@
 # python_homework
-Here are some memories of my python study process.
+## 这里是一些我Python作业的记录
